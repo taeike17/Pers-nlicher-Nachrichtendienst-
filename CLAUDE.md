@@ -44,27 +44,34 @@ aktuelles Briefing nach den folgenden Regeln.
   (z. B. langfristig, risikofreudig, kurzfristig spekulativ)
 - Wenn der Markt sehr unsicher ist, das klar sagen („Abwarten ist auch eine Option“)
 
-## 🎯 Hebel-Check (Long, max. 2 Tage)
-Tabelle für jeden Wert der Watchlist (siehe Anlegerprofil):
-| Wert | Stand / Tagesbewegung | Ampel | Begründung (Trend, Nachrichten) | Risiko-Termine in den nächsten 2 Tagen |
+## 👀 Watchlist (ohne Hebel)
+Kurz je 1 Zeile: S&P 500, STOXX Europe 600, Gold, Bitcoin, Solana –
+Stand, Tagesbewegung, wichtigste News. Keine Hebel-Ampel.
+
+## 🎯 Hebel-Check – nur große Einzelaktien (Long, max. 2 Tage)
+Tabelle für die Hebel-Aktien (siehe Anlegerprofil):
+| Aktie | Stand / Tagesbewegung | Ampel | Begründung (Trend, Nachrichten) | Risiko-Termine in den nächsten 2 Tagen |
 - Ampel: 🟢 Long-Setup günstig · 🟡 neutral / abwarten · 🔴 Long eher meiden
-- Danach 1–3 Sätze Gesamtfazit: Gibt es heute überhaupt ein gutes Long-Setup?
-  Wenn nicht, klar sagen „Heute kein Hebel-Trade“.
-- Orientierung für den maximalen Hebel je Anlageklasse (vorsichtig): Indizes & Gold
-  bis ca. 5x, große Einzelaktien bis ca. 3x, Palantir/Bitcoin bis ca. 2x,
-  Solana/Altcoins max. 2x. Immer mit Stop-Loss; Knock-out-Schwelle nennen,
-  falls aus den Quellen ein relevantes Unterstützungsniveau hervorgeht.
+- Danach 1–3 Sätze Gesamtfazit: Welche Aktie hat heute das beste Long-Setup?
+  Wenn keine überzeugt, klar sagen „Heute kein Hebel-Trade“.
+- Hebel-Orientierung (vorsichtig): ruhigere Mega-Caps (Apple, Microsoft,
+  Alphabet, Amazon, Meta) bis ca. 3x; volatile Aktien (Nvidia, Broadcom,
+  Tesla, Palantir) bis ca. 2x. Immer mit Stop-Loss; Unterstützungsniveaus aus
+  den Quellen nennen, damit die Knock-out-Schwelle darunter gelegt werden kann.
+- Lage von S&P 500 / Nasdaq als Marktumfeld in die Bewertung einbeziehen.
 
 ## 🔗 Quellen
 - Markdown-Links zu allen verwendeten Quellen
 ```
 
 ### Recherche für den Hebel-Check
-- Für jeden Watchlist-Wert gezielt suchen (aktueller Kurs, Trend, Nachrichten).
+- Für jede Hebel-Aktie gezielt suchen (aktueller Kurs, Trend, Nachrichten,
+  Analysten, Insider-Verkäufe); für die Watchlist reicht eine kurze Suche.
 - Termine der nächsten 2 Handelstage prüfen: Quartalszahlen, US-Makrodaten
   (CPI, PCE, Arbeitsmarkt), Fed/EZB-Sitzungen, US-Feiertage (Börse geschlossen /
-  verkürzt), Krypto-Events. Solche Termine sind für 2-Tages-Hebel das größte Risiko.
-- Bei den größten Einzelaktien nur die aufführen, die gerade relevante News haben.
+  verkürzt), Hauptversammlungen, Produkt-Events. Solche Termine sind für 2-Tages-Hebel das größte Risiko.
+- Kernliste immer bewerten; weitere große Aktien nur bei relevanten News.
+
 
 ## Regeln
 
@@ -79,9 +86,10 @@ Tabelle für jeden Wert der Watchlist (siehe Anlegerprofil):
 ## Anlegerprofil (vom Nutzer auszufüllen)
 
 - Stil: kurzfristige **Hebel-Trades, nur Long, Haltedauer max. 2 Tage**
-- Watchlist: S&P 500, STOXX Europe 600, Gold, Bitcoin, Solana, Palantir
-  sowie die größten Einzelaktien (Nvidia, Apple, Microsoft, Alphabet, Amazon,
-  Meta, Broadcom, Tesla)
+- **Gehebelt werden nur große Einzelaktien.** Kernliste: Nvidia, Apple,
+  Microsoft, Alphabet, Amazon, Meta, Broadcom, Tesla, Palantir
+- Watchlist nur zur Info (ohne Hebel): S&P 500, STOXX Europe 600, Gold,
+  Bitcoin, Solana
 - Risikobereitschaft: hoch (Hebelprodukte) – trotzdem immer Risiken klar benennen
 - Am Ende kurzer Hinweis: Kurse können sich seitdem geändert haben.
 - Auf Wunsch Fokus anpassen (z. B. nur Krypto, nur DAX, bestimmte Aktie).
