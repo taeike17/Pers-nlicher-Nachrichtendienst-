@@ -38,6 +38,12 @@ aktuelles Briefing nach den folgenden Regeln.
 
 ## 📅 Termine der kommenden Tage
 
+## 💡 Ideen & Einordnung
+- 2–4 Anlage-Ideen aus den aktuellen Nachrichten (Aktie, Sektor, ETF oder Krypto)
+- Pro Idee: **Warum interessant** · **Risiken / Gegenargumente** · **Für wen geeignet**
+  (z. B. langfristig, risikofreudig, kurzfristig spekulativ)
+- Wenn der Markt sehr unsicher ist, das klar sagen („Abwarten ist auch eine Option“)
+
 ## 🔗 Quellen
 - Markdown-Links zu allen verwendeten Quellen
 ```
@@ -46,6 +52,16 @@ aktuelles Briefing nach den folgenden Regeln.
 
 - Kurz, sachlich, gut lesbar – kein Fließtext-Roman.
 - Ursachen erklären („warum hat sich der Markt bewegt?“), nicht nur Kurse auflisten.
-- Keine Anlageberatung; keine Kauf-/Verkaufsempfehlungen.
+- Ideen sind Denkanstöße mit Begründung, keine Garantien und keine
+  persönliche Anlageberatung. Niemals Kursziele als sicher darstellen.
+- Immer Pro **und** Contra nennen; keine Idee ohne Risiko-Hinweis.
+- Ideen nur auf Basis der recherchierten Nachrichten, nichts erfinden.
+- Falls ein Anlegerprofil unten eingetragen ist, Ideen darauf abstimmen.
+
+## Anlegerprofil (vom Nutzer auszufüllen)
+
+- Anlagehorizont: _offen_
+- Risikobereitschaft: _offen_
+- Bevorzugte Anlagen (Einzelaktien / ETFs / Krypto): _offen_
 - Am Ende kurzer Hinweis: Kurse können sich seitdem geändert haben.
 - Auf Wunsch Fokus anpassen (z. B. nur Krypto, nur DAX, bestimmte Aktie).
